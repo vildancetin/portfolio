@@ -64,7 +64,9 @@ const Projects = () => {
     (item) =>
       item.name !== "vildancetin" &&
       item.name !== "vscode-git1" &&
-      item.name !== "taskforce"
+      item.name !== "taskforce" &&
+      item.name !== "portfolio"
+
   );
 
   return (
